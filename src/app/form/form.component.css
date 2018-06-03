@@ -1,0 +1,33 @@
+.insertB{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 0,15% !important;
+    width: 330px;
+    margin: 0 auto;
+}
+.wordB{
+    display: flex;
+    justify-content: center;
+    padding: 0,15% !important;
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+}
+.fondo-form{
+    background-color: #6F1E51;
+}
+.graficoW{
+    padding: 25px;
+    /*
+    background: url(../../assets/images/c6934135a50d5c7b1ab4fad2373ac741.png);
+    background: url(../../assets/images/4e6ed843c82cd1a7fdeb451d0e4657d1.jpg);
+    background-size: 3228px 1000px;
+    */
+    background-repeat: no-repeat;
+    background-color: rgb(196, 189, 189) !important;
+}
+
+.graficoB{
+    background-color: #192a56;
+}

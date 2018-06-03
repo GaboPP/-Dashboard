@@ -1,0 +1,9 @@
+
+@import './assets/theme/css/style.css';
+@import './assets/dropdown/css/style.css';
+@import './assets/animatecss/animate.min.css';
+@import './assets/socicon/css/styles.css';
+@import './assets/tether/tether.min.css';
+@import './assets/web/assets/mobirise-icons/mobirise-icons.css';
+@import './assets/mobirise/css/mbr-additional.css';
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
